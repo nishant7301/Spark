@@ -1,0 +1,5 @@
+101;/John;/Manager
+102;/Mark;/Sales
+103;/James;/Manager
+104;/Paul;/HR
+105;/Christopher;/HR
